@@ -1,5 +1,5 @@
 /******************************************************************************/
-/*Filename: cc_decrypt.c
+/*Filename: cc_encrypt.c
  *Author/Student Name: Byron Jones 
  *Student Number: 040585687 
  *Assignment: Lab 2 - Caesar's Cipher
